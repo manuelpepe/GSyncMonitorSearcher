@@ -1,0 +1,5 @@
+config.py
+venv/
+__pycache__
+win_launch.bat
+monitors.txt

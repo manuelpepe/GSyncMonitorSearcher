@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+# Complete this data and rename to config.py
+
+EMAIL_HOST = 'smtp-mail.outlook.com'
+EMAIL_PORT = 587
+EMAIL_ADDRESS = 'your_address'
+EMAIL_PASSWORD = 'your_pwd'
+EMAIL_TARGET = # 'target'
